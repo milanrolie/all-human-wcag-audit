@@ -6,3 +6,5 @@ Tivoli Vredenburg is een poppodium in Utrecht. Hier zijn ze druk bezig met acces
 
 Hier kun je de website bezoeken: www.tivolivredenburg.nl
 
+Klik [hier](https://github.com/milanrolie/all-human-wcag-audit/wiki/Accessibility-report-TivoliVredenburg) om het volledige rapport te bekijken.
+
