@@ -1,21 +1,8 @@
-> _Fork_ deze deeltaak en ga aan de slag. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
+Accessibility report TivoliVredenburg.
 
+https://user-images.githubusercontent.com/112857190/197975805-51aa9bd1-7b9b-46a1-831e-c38e27c04e0c.png![image](https://user-images.githubusercontent.com/112857190/200810739-028e7310-accd-45b0-96ed-f77a774463cd.png)
 
-# WCAG Audit 
+Tivoli Vredenburg is een poppodium in Utrecht. Hier zijn ze druk bezig met accessibility op locatie, met rolstoel liften en veel mogelijkheden voor mensen met een beperking. Hierdoor is het ook erg belangrijk dat de website volledig accesable is. Hiervoor heb ik een rapport geschreven voor de website, die is te vinden in deze wiki.
 
-Doe een WCAG test op een bestaande website en rapporteer daar over.
+Hier kun je de website bezoeken: www.tivolivredenburg.nl
 
-## Titel Website
-
-Welke website heb je getest? Beschrijf de website en upload een screenshot. 
-
-Toon een screenshot van het Lighthouse Accessibility test resultaat.
-
-Schrijf een een samenvatting van de test bevindingen.
-
-
-## Licentie
-
-![GNU GPL V3](https://www.gnu.org/graphics/gplv3-127x51.png)
-
-This work is licensed under [GNU GPLv3](./LICENSE).
